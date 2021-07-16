@@ -1,0 +1,15 @@
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.exe
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.deps.json
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.runtimeconfig.json
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.runtimeconfig.dev.json
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.dll
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Task_Five.pdb
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.csprojAssemblyReference.cache
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.AssemblyInfoInputs.cache
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.AssemblyInfo.cs
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.csproj.CoreCompileInputs.cache
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.dll
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.pdb
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.genruntimeconfig.cache
+E:\Test_Work_Uklon\Task_Five\Task_Five\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Test_Work_Uklon\Task_Five\Task_Five\obj\Debug\netcoreapp3.1\Task_Five.csproj.CopyComplete

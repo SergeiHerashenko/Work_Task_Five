@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jf6Db1yzo08+v4FMNv5nItRl/4JM4dLW0b95eCsW1K0fKqy6tHySGPlHHy5LUA8vqNTZL7Yiv0mz0C94k85RsA==",
+  "success": true,
+  "projectFilePath": "E:\\Test_Work_Uklon\\Task_Five\\Task_Five\\Task_Five.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергій Геращенко\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Сергій Геращенко\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
